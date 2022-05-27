@@ -10,6 +10,8 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 ### Sequnce Diagram
 ![Sequence diagram](https://user-images.githubusercontent.com/37314424/170690004-4e58c860-b8a4-4590-ae42-e97b7fbc6ee5.PNG)
 
+### State Diagram
+![State Diagram](https://user-images.githubusercontent.com/37314424/170715294-73e94a69-ff77-4870-8b0b-e9c2c8829b70.PNG)
 
 ## Getting Started
 
