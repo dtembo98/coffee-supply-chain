@@ -102,7 +102,7 @@ App = {
   initSupplyChain: function () {
     /// Source the truffle compiled smart contracts
     var jsonSupplyChain = "../../build/contracts/SupplyChain.json";
-
+    web3.eth.defaultAccount = web3.eth.accounts[0];
     /// JSONfy the smart contracts
     $.getJSON(jsonSupplyChain, function (data) {
       console.log("data", data);
@@ -167,7 +167,7 @@ App = {
   harvestItem: function (event) {
     event.preventDefault();
     var processId = parseInt($(event.target).data("id"));
-    console.log("this function is running");
+
     App.contracts.SupplyChain.deployed()
       .then(function (instance) {
         return instance.harvestItem(
