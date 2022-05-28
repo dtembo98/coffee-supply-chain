@@ -13,6 +13,9 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 ### State Diagram
 ![State Diagram](https://user-images.githubusercontent.com/37314424/170715294-73e94a69-ff77-4870-8b0b-e9c2c8829b70.PNG)
 
+### Data Model Diagram
+![uml](https://user-images.githubusercontent.com/37314424/170822620-dfda1729-07d6-4395-ab3d-f3d08d9e2ca1.PNG)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
