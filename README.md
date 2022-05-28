@@ -23,17 +23,23 @@ The project contains the following libraries
 2. [Dotenv Library](https://www.npmjs.com/package/dotenv): This is a node js module for managing environmetal variables in the project.It is being used to read environmental variables from such as the mnemonic seed and infura API access key.
 3. [Truffle Hdwallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider): Used  to sign transactions for addresses derived from a 12 or 24 word mnemonic.
   
-## Getting Started
+##General WriteUP -  Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
+### Dependencies
+For this project, you will need to have:
+ 1. Node version ``` v10.0.0```
+ 2. NPM version ```  v6.14.12```
+ 3. Truffle version  ```v4.1.14```
+ 4. Solidity version ```V0.4.24```
+ 
+Contract  address on Rinkeby Network ```0x8888c466B2712d154680096d9bCAc4165396471E```
+
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
-```
-Give examples (to be clarified)
-```
 
 ### Installing
 
