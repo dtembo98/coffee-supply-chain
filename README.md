@@ -27,8 +27,6 @@ The project contains the following libraries
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
 ### Dependencies
 For this project, you will need to have:
  1. Node version ``` v10.0.0```
@@ -36,7 +34,6 @@ For this project, you will need to have:
  3. Truffle version  ```v4.1.14```
  4. Solidity version ```V0.4.24```
  
-Contract  address on Rinkeby Network ```0x8888c466B2712d154680096d9bCAc4165396471E```
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
@@ -66,20 +63,11 @@ Launch Ganache:
 ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
 ```
 
-Your terminal should look something like this:
-
-![truffle test](images/ganache-cli.png)
-
 In a separate terminal window, Compile smart contracts:
 
 ```
 truffle compile
 ```
-
-Your terminal should look something like this:
-
-![truffle test](images/truffle_compile.png)
-
 This will create the smart contract artifacts in folder `build\contracts`.
 
 Migrate smart contracts to the locally running blockchain, ganache-cli:
