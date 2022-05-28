@@ -20,8 +20,8 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 The project contains the following libraries
 1. Roles Library:
   This is a solidity custom built helper library having functions for easier implementation of different actors roles in the supply chain.It contains commonly used functions in the actor roles.
-2. Dotenv Library: This is a node js module for managing environmetal variables in the project.It is being used to read environmental variables from such as the mnemonic seed and infura API access key.
-3. [Truffle Hdwallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
+2. [Dotenv Library] (https://www.npmjs.com/package/dotenv): This is a node js module for managing environmetal variables in the project.It is being used to read environmental variables from such as the mnemonic seed and infura API access key.
+3. [Truffle Hdwallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider): Used  to sign transactions for addresses derived from a 12 or 24 word mnemonic.
 4.   
 ## Getting Started
 
