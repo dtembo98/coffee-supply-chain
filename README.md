@@ -33,6 +33,7 @@ For this project, you will need to have:
  2. NPM version ```  v6.14.12```
  3. Truffle version  ```v4.1.14```
  4. Solidity version ```V0.4.24```
+ 5. web3 version ```1.7.3```
  
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
