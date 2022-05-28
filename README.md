@@ -47,7 +47,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone this repository:
 
 ```
-git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
+git clone https://github.com/dtembo98/coffee-supply-chain.git
 ```
 
 Change directory to `project-6` folder and install all requisite npm packages (as listed in `package.json`):
@@ -96,5 +96,4 @@ npm run dev
 - [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
 ### Contract address
-
-0x6f3cf6d2b1374055badba636e46b6d3607154a6d0d598e7b19421aadd7b63dd0
+0x7bfbc8f883639017414b2d937fd01f75eef59871de2e243b30c8fad70672b011
