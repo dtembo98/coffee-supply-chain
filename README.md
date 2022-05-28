@@ -2,7 +2,7 @@
 
 This repository contains an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
-## Project Write Ups - UML
+## Project Write Up - UML
 
 ### Activity Diagram
 ![Activity Diagram](https://user-images.githubusercontent.com/37314424/170694960-c7750c82-0d8a-4ccf-aa62-5cf4838bdb62.PNG)
@@ -16,14 +16,14 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 ### Data Model Diagram
 ![uml](https://user-images.githubusercontent.com/37314424/170822620-dfda1729-07d6-4395-ab3d-f3d08d9e2ca1.PNG)
 
-## Project Write Ups - Libraries
+## Project Write Up - Libraries
 The project contains the following libraries
 1. Roles Library:
   This is a solidity custom built helper library having functions for easier implementation of different actors roles in the supply chain.It contains commonly used functions in the actor roles.
 2. [Dotenv Library](https://www.npmjs.com/package/dotenv): This is a node js module for managing environmetal variables in the project.It is being used to read environmental variables from such as the mnemonic seed and infura API access key.
 3. [Truffle Hdwallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider): Used  to sign transactions for addresses derived from a 12 or 24 word mnemonic.
   
-##General WriteUP -  Getting Started
+## General Write UP -  Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
