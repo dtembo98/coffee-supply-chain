@@ -16,6 +16,10 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 ### Data Model Diagram
 ![uml](https://user-images.githubusercontent.com/37314424/170822620-dfda1729-07d6-4395-ab3d-f3d08d9e2ca1.PNG)
 
+## Project Write Ups - Libraries
+The project contains the following libraries
+1. Roles Library:
+  This is a solidity custom built helper library having functions for easier implementation of different actors roles in the supply chain.It contains commonly used functions in the actor roles.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
