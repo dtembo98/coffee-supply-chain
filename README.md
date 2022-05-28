@@ -97,7 +97,6 @@ npm run dev
 
 ### Transaction Id
 0x7bfbc8f883639017414b2d937fd01f75eef59871de2e243b30c8fad70672b011
-
 ### Contract address
 0xa7a79495c83fe4a4168db7574eb462e0586da5d5
 
